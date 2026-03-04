@@ -74,4 +74,5 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions or concerns regarding this Privacy Policy, you may contact us at:
 
-Email: [support@etnnews.com](mailto:support@etnnews.com)
+Email: [orcateksolutions@gmail.com](mailto:orcateksolutions@gmail.com)
+
