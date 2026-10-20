@@ -1,90 +1,81 @@
-# Privacy Policy for ETN News
+Erithazhal · ETN News
+Privacy Policy
+How we handle information when you use the ETN News app.
 
-**Last updated: 2026**
+Last updated: 20 October 2026
+ETN News (“we”, “our”, or “us”) operates the ETN News mobile application. This Privacy Policy explains how we collect, use, disclose, and protect information when people use the app.
 
-ETN News (“we”, “our”, or “us”) operates the ETN News mobile application. This Privacy Policy explains how we collect, use, disclose, and protect information when users use our app.
+By using ETN News, you acknowledge the information practices described in this Privacy Policy.
 
-By using ETN News, you agree to the collection and use of information in accordance with this Privacy Policy.
+1. Information We Collect
+You do not need to create an account, log in, or provide your name, email address, or phone number simply to read news in ETN News. Email addresses and phone numbers are collected only from people who choose to submit content through the People's Voice feature.
 
-## Information We Collect
+The app may also automatically collect or process limited information to operate, improve, secure, and analyze the service, including:
 
-ETN News does not require users to create an account, login, or provide personal information such as name, email address, or phone number.
+Device information, such as device type, operating system version, app version, and device model
+Device or other identifiers, such as Firebase installation ID, app instance ID, notification token, and advertising ID where applicable
+App usage information, such as app opens, screen views, interactions, and general usage statistics
+Language preference selected in the app
+Firebase Cloud Messaging (FCM) token used for push notifications
+Crash logs and diagnostic information, if reporting or diagnostic tools are enabled
+This information supports app performance, notifications, service analysis, troubleshooting, and advertising where applicable.
 
-However, the app may collect limited information automatically to operate, improve, secure, and analyze the service, including:
+2. People's Voice Submissions
+People's Voice allows readers to send news, opinions, or local updates to ETN News. This feature is optional.
 
-* Device information such as device type, operating system version, app version, and device model
-* Device or other identifiers, such as Firebase installation ID, app instance ID, notification token, and advertising ID where applicable
-* App usage information, such as app opens, screen views, app interactions, and general usage statistics
-* Language preference selected in the app
-* Firebase Cloud Messaging token used for push notifications
-* Crash logs and diagnostic information, if crash reporting or diagnostic tools are enabled
+When you submit through People's Voice, we collect the email address and phone number you enter, together with the content you choose to submit.
 
-This information is used to improve app performance, deliver notifications, understand general usage trends, diagnose technical issues, and support advertising where applicable.
+We use these contact details only to review the submission, check or clarify information, and contact you about that submission if necessary. We do not display your email address or phone number publicly as part of a published People's Voice submission. Submitted content may be reviewed and selected for publication.
 
-## Push Notifications
+Contact details are not collected from readers who do not use People's Voice, and we do not use People's Voice contact details for unrelated marketing. We may use service providers to securely store or process submissions, and may disclose information if required by law.
 
-ETN News uses Firebase Cloud Messaging (FCM) to deliver news notifications.
+If you would like us to review, correct, or delete contact information associated with your People's Voice submission, contact orcateksolutions@gmail.com. We may need enough information to identify the submission.
+3. Push Notifications
+ETN News uses Firebase Cloud Messaging (FCM) to deliver news notifications. A device notification token is used to send relevant alerts. You can disable notifications at any time in your device settings.
 
-This requires generating and using a device notification token so that relevant news alerts can be sent to users. Users can disable notifications at any time from their device settings.
+4. Analytics
+ETN News may use Firebase Analytics or similar trusted analytics services to understand how people interact with the app. Analytics data may include app interactions, app opens, screen views, device information, and device or app identifiers. This helps improve app performance, content, and functionality.
 
-## Analytics
+5. Advertising
+ETN News may display advertisements through Google AdMob or other advertising services. These services may use device identifiers, advertising IDs, and app interaction data to show, measure, and improve ads. Where supported by Android, you can reset or delete your advertising ID through device settings.
 
-ETN News may use Firebase Analytics or similar trusted analytics services to understand how users interact with the app. Analytics data helps us improve app performance, content experience, and app functionality.
+6. News Content
+ETN News aggregates publicly available news from various sources and publishers. We do not claim ownership of third-party content and may provide source attribution where applicable. Publishers with concerns about content aggregation can contact us for review or removal.
 
-Analytics data may include app interactions, app opens, screen views, device information, and device or app identifiers.
+7. How We Use Information
+Information collected or processed by the app is used for:
 
-## Advertising
-
-ETN News may display advertisements through Google AdMob or other advertising services. Advertising services may use device identifiers, advertising ID, and app interaction data to show, measure, and improve ads.
-
-Users can reset or delete their advertising ID through their device settings where supported by Android.
-
-## News Content
-
-ETN News aggregates publicly available news from various sources and publishers.
-
-We do not claim ownership of third-party content and provide source attribution where applicable. If any publisher has concerns regarding content aggregation, they may contact us for review or removal.
-
-## Data Usage
-
-The limited information collected by the app is used for:
-
-* Delivering news notifications
-* Improving app functionality and performance
-* Understanding general usage trends
-* Monitoring app stability and diagnosing issues
-* Showing and measuring advertisements where applicable
-* Maintaining app security and reliability
-
+Delivering news notifications
+Improving app functionality and performance
+Understanding general usage trends
+Monitoring app stability and diagnosing issues
+Showing and measuring advertisements where applicable
+Maintaining app security and reliability
+Reviewing and following up on People's Voice submissions
 We do not sell or rent user data.
 
-## Third-Party Services
-
+8. Third-Party Services and Data Sharing
 ETN News may use trusted third-party services, including:
 
-* Google Firebase for notifications, analytics, diagnostics, and app functionality
-* Google AdMob for advertising, if ads are enabled
+Google Firebase for notifications, analytics, diagnostics, and app functionality
+Google AdMob and other advertising partners, if advertisements are enabled
+Hosting and backend service providers needed to operate the app and process People's Voice submissions
+These services may process information under their respective privacy policies. We share information only where needed to provide the app or its features, or where required by law.
 
-These third-party services may collect and process limited information according to their own privacy policies and data handling practices.
+9. Data Security
+We take reasonable measures to protect information collected by the app, including People's Voice contact details. Data transmitted by the app and its service providers is generally encrypted in transit. However, no method of internet transmission or electronic storage is completely secure.
 
-## Data Security
+10. Data Deletion Requests
+You may request deletion of information associated with your use of the app, including the email address and phone number provided through People's Voice, by contacting orcateksolutions@gmail.com. As ETN News does not require user accounts, some requests may be limited to data we can reasonably identify and manage. Certain information may need to be retained where legally required.
 
-We take reasonable measures to protect the information collected by the app. Data transmitted by the app and third-party services is generally encrypted in transit. However, no method of transmission over the internet or electronic storage is completely secure.
-
-## Data Deletion Requests
-
-Users may request deletion of data associated with their use of the app by contacting us at the email address below. Since ETN News does not require user accounts, deletion requests may be limited to data that can reasonably be identified and managed.
-
-## Children’s Privacy
-
+11. Children's Privacy
 ETN News is not directed to children under the age of 13. We do not knowingly collect personal information from children.
 
-## Changes to This Policy
+12. Changes to This Policy
+We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated revision date.
 
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.
+13. Contact Us
+For privacy questions, concerns, or deletion requests, contact us at:
+Email: orcateksolutions@gmail.com
 
-## Contact Us
-
-If you have any questions, concerns, or data deletion requests regarding this Privacy Policy, you may contact us at:
-
-**Email:** [orcateksolutions@gmail.com](mailto:orcateksolutions@gmail.com)
+© 2026 ETN News · Privacy Policy
